@@ -1,0 +1,166 @@
+body {
+  background-color: #92d4fd;
+  font-family: Jost, sans-serif;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+}
+
+hr {
+  border-style: dotted;
+  color: #e4d1b2;
+  border-width: 5px;
+  border-top: 0;
+}
+
+a {
+  color: #fc7e2f;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #fdac79;
+}
+
+a:visited {
+  color: #903802;
+}
+
+.intro {
+  width: 100%;
+  color: #f8f3eb;
+  text-align: center;
+  height: 600px;
+  position: relative;
+  padding-top: 200px;
+  font-size: 40px;
+}
+
+.sectionHeader {
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+
+.contactIcon {
+  height: 30px;
+  width: 30px;
+  margin: 5px;
+  text-decoration: none;
+}
+
+.aboutMe {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.mySkills {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.cloud {
+  position: absolute;
+}
+
+.grass {
+  width: 100%;
+  height: 100px;
+  background-color: #3bd183;
+  position: absolute;
+  top: 700px;
+}
+
+.skillName {
+  font-family: Bebas Neue, monospace;
+  font-size: 30px;
+  color: #f40552;
+  margin: 5px 0;
+}
+
+.footer {
+  margin: 50px;
+  color: #f8f3eb;
+}
+
+.contentContainer {
+  padding: 50px 0;
+  background-color: #f8f3eb;
+}
+
+.skill {
+  margin: 20px auto;
+  padding: 50px 0;
+  /* height: 150px; */
+}
+
+.skillHeader {
+  width: 50%;
+  margin: auto;
+  float: left;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.content {
+  width: 80%;
+  margin: auto;
+}
+
+.skillDescription {
+  width: 100%;
+  margin: auto;
+  text-align: justify;
+}
+
+#mountain {
+  position: relative;
+  height: 250px;
+  top: 30px;
+}
+
+#introName {
+  font-family: Grand Hotel, Arial, sans-serif;
+  color: #fc7e2f;
+}
+
+#profilePicture {
+  height: 200px;
+  width: 200px;
+}
+
+#hamburger-menu {
+  height: 30px;
+  width: 30px;
+  position: fixed;
+  left: 10px;
+  top: 10px;
+}
+
+#topCloud {
+  right: 30px;
+  top: 50px;
+}
+
+#bottomCloud {
+  left: 30px;
+}
+
+#position {
+  font-family: Bebas Neue, monospace;
+  font-size: 30px;
+  color: #f40552;
+}
+
+#copyright {
+  color: #c4e8fe;
+}
